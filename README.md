@@ -25,11 +25,11 @@ Jonas
 
 **Phase 2:** + LCD-Monitor für Ausgabe der Daten
 
-**Phase 3:** + ESP8266, 
+**Phase 3:** + ESP8266  
          Der ESP stellt einen Webserver bereit, auf dem die Daten mithilfe einer selber erstellten Webseite angezeigt 
          werden. 
 
-**Phase 4:**: Zusätzlich zu dem Master sollen Slaves dazukommen.
+**Phase 4:** Zusätzlich zu dem Master sollen Slaves dazukommen.
          Arduino Pro Mini, Kontakt zum Master entweder über 433Mhz oder einen weiteren ESP8266 am Pro Mini,
          Stromversorgung über Batterie, Arduino soll nur zum Messen geweckt werden. LED bei niedrigen Akku + Meldung an      
          Master.
