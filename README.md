@@ -2,8 +2,8 @@
 Just another arduino controlled greenhouse
 
 
-# German Version 
-# English Version below 
+# German Version
+(English Version below) 
 
 In diesem Projekt soll ein Gewächshaus entstehen, das von einem Arduino gesteuert wird.
 Ich hab das Projekt in verschiedene Phasen unterteilt, um das Projekt modular zugestalten.
