@@ -1,3 +1,12 @@
+/*
+ * Just another arduino controlled greenhouse
+ * View this on github https://github.com/j-n-s-k-n-r/Jaacg
+ * Share this, mod this but don't sell this
+ * 
+ * Author: j4n5s1
+ * The God who created this universe is quite clearly a maniac
+ */
+
 #include <DHT.h>
 #include <dht11.h>
 
